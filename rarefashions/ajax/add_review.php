@@ -14,6 +14,8 @@ include '../head/jackus.php';
 						die;
 					}
 
+
+
 					
 			if($rating < 3){
 					$ticket_ref_no = supportTICKET_REFNOGENERATOR();
