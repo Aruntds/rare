@@ -3,7 +3,7 @@ extract($_REQUEST);
 include 'head/jackus.php'; 
 include 'shopfunction.php'; 
 include '___class__home.inc'; 
-  
+    
 $carthero_text = "Your cart is currently empty!";	
 $cartdescription = "Please add items that you want to buy";
 if($update_cart == 'update_cart'){
