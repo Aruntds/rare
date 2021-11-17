@@ -5,7 +5,7 @@ include 'shopfunction.php';
 include '___class__home.inc';
 //print_r($_SESSION); exit();
 //echo $sid;
-
+  
 $carthero_text = "Your cart is currently empty!";	
 $cartdescription = "Please add items that you want to buy";
 if($update_cart == 'update_cart'){
