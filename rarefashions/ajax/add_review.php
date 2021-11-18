@@ -28,6 +28,4 @@ include '../head/jackus.php';
 					}
 			}
 
-
-
 ?>
