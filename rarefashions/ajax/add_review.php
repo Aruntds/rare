@@ -27,6 +27,4 @@ include '../head/jackus.php';
 					}
 			}
 
-
-
 ?>
